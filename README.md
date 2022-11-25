@@ -36,3 +36,5 @@ Updated by rebase e.g.
 Some more update
 -----------------------------------------------
 Some data in stashing example
+-----------------------------------------
+Stash new Data
