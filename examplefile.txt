@@ -5,3 +5,7 @@ This is an update from simple-changes branch
 Updated by some team member
 
 Some more update by other team
+
+some data for multiple stash example
+
+multi branch stash
