@@ -28,3 +28,5 @@ Added in rebash
 Added in myfeature branch
 
 Added by stash
+
+Some more in stash
