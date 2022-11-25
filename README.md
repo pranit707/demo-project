@@ -30,3 +30,5 @@ Added in myfeature branch
 Added by stash
 
 Some more in stash
+----------------------------------------------------
+Updated by rebase e.g.
