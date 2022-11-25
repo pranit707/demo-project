@@ -1,3 +1,5 @@
 Test Git Quick Start demo
 
 More data
+
+Some data in stashing
