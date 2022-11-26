@@ -9,3 +9,5 @@ Some more update by other team
 some data for multiple stash example
 
 multi branch stash
+
+This is tagging example
